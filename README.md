@@ -45,4 +45,7 @@ You don't use discord webhook? No problem! We have telegram bot support.
   - Yandex Beta
 
 # Pictures
-![1](https://raw.githubusercontent.com/not-groax/viking/main/Screenshot.png)
+![.](https://media.discordapp.net/attachments/970044762449121330/970086744408068126/Screensh.png)
+![.](https://media.discordapp.net/attachments/970044762449121330/970086731233767434/Screenshot_2022-05-01_011713.png)
+![.](https://media.discordapp.net/attachments/970044762449121330/970084708568412260/unknown.png)
+![.](https://media.discordapp.net/attachments/970044762449121330/970084624841703424/unknown.png)
