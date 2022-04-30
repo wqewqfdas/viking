@@ -43,3 +43,6 @@ You don't use discord webhook? No problem! We have telegram bot support.
   - Opera GX
   - Yandex
   - Yandex Beta
+
+# Pictures
+![1](https://raw.githubusercontent.com/not-groax/viking/main/Screenshot.png)
