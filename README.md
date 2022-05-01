@@ -23,7 +23,7 @@ You don't use discord webhook? No problem! We have telegram bot support.
   - History
   - Password
   - Auto Start
-  - Obfuscation (You don't need to obfuscate manually!)
+  - Obfuscation (You can still obfuscate but i don't recommended.) 
   - 0/72 Detections
 - Other
   - Craftrise
