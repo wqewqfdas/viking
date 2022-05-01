@@ -47,7 +47,7 @@ You don't use discord webhook? No problem! We have telegram bot support.
   - Firefox
 
 # Pictures
-![.](https://media.discordapp.net/attachments/970044762449121330/970254341531381770/Screenshot2k22.png)
+![.](https://media.discordapp.net/attachments/970044762449121330/970262967335649350/enterprise.png)
 ![.](https://media.discordapp.net/attachments/970044762449121330/970086731233767434/Screenshot_2022-05-01_011713.png)
 ![.](https://media.discordapp.net/attachments/970044762449121330/970084708568412260/unknown.png)
 ![.](https://media.discordapp.net/attachments/970044762449121330/970084624841703424/unknown.png)
