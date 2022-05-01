@@ -35,17 +35,19 @@ You don't use discord webhook? No problem! We have telegram bot support.
   - Telegram
 
 # Supported Browsers
-  - Chrome (Supported Profiles)
-  - Chrome Beta (Supported Profiles)
-  - Brave (Supported Profiles)
-  - Brave Beta (Supported Profiles)
+ **(Supported Profiles)**
+  - Chrome
+  - Chrome Beta
+  - Brave
+  - Brave Beta 
   - Opera
   - Opera GX
   - Yandex
   - Yandex Beta
+  - Firefox
 
 # Pictures
-![.](https://media.discordapp.net/attachments/970044762449121330/970086744408068126/Screensh.png)
+![.](https://media.discordapp.net/attachments/970044762449121330/970254341531381770/Screenshot2k22.png)
 ![.](https://media.discordapp.net/attachments/970044762449121330/970086731233767434/Screenshot_2022-05-01_011713.png)
 ![.](https://media.discordapp.net/attachments/970044762449121330/970084708568412260/unknown.png)
 ![.](https://media.discordapp.net/attachments/970044762449121330/970084624841703424/unknown.png)
